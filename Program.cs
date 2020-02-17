@@ -10,7 +10,7 @@ namespace Test_GitHub
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hoii");
+            Console.WriteLine("Hoii2");
         }
     }
 }
